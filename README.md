@@ -1,4 +1,4 @@
-#framework for paradox.os
+# framework for paradox.os
 
 beta logo:
 ![beta framework](https://github.com/user-attachments/assets/301ac141-c119-43e8-9788-edaa26433fef)
